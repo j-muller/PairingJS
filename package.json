@@ -1,0 +1,19 @@
+{
+    "name": "PairingJS",
+    "version": "0.1.0",
+    "description": "PairingJS is a node.js application to pair a custom application with iTunes",
+    "author": "Jeffrey Muller <jeffrey.muller92@gmail.com>",
+    "contributors": [],
+    "dependencies": {
+        "mdns2": ">=2.1.4",
+        "daap": "0.1.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/j-muller/PairingJS.git"
+    },
+    "bugs": {
+        "url": "https://github.com/j-muller/PairingJS/issues"
+    },
+    "main": "./pairing.js"
+}
