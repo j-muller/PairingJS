@@ -5,7 +5,8 @@ PairingJS is a node.js application to pair a custom application with iTunes
 
 ###How to use
 
-```koinkoin:~/PairingJS jeffrey$ node pairing.js 
+```
+koinkoin:~/PairingJS jeffrey$ node pairing.js 
 RemoteJS pairing process - jeffrey.muller92@gmail.com
 Thanks to http://jsharkey.org/blog/2009/06/21/itunes-dacp-pairing-hash-is-broken/ - http://jinxidoru.blogspot.dk/2009/06/itunes-remote-pairing-code.html
 You can now type in your 4-digit pincode in iTunes.
