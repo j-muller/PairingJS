@@ -1,7 +1,7 @@
 PairingJS
 =========
 
-PairingJS is a node.js application to pair a custom application with iTunes
+PairingJS is a node.js application to pair a custom application with iTunes. This tool has been tested with iTunes 11 & iTunes 12, both running under Mac OS X. Should be running under Windows, as well, but not tested yet.
 
 ###How to use
 
